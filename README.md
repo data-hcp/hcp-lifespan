@@ -12,6 +12,5 @@ The Connectome Coordination Facility (CCF) is proud to directly support the foll
 - HCP Lifespan Children (Age 5-21): Investigating brain growth and maturation during childhood and adolescence
 - HCP-Aging (Age 36-100): Uncovering the neural changes associated with healthy aging
 - Developing HCP (Prenatal & Neonatal): Shining light on fetal and newborn brain development
-- Adolescent Brain and Cognitive Development (Protocols only): Informing the development of research protocols for studying adolescent brain development
 
 These studies will collectively contribute to a more comprehensive understanding of human brain development, maturation, and aging, ultimately informing strategies for promoting healthy brain function across the lifespan.
